@@ -1,0 +1,26 @@
+body{
+    position: relative;
+    background-image: url('https://vcdn1-english.vnecdn.net/2024/05/28/pexels-pixabay-158053-17168382-8320-8434-1716838463.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=KSZWDPU5LXCXnrHzXq6N6w');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    text-align: center;
+    width: 80%;
+    max-width: 1000px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+h1, ul, ol, li{
+    background-color: orange;
+}
+li{
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+}
